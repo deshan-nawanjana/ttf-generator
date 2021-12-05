@@ -1,0 +1,42 @@
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF Generator 2.0.exe
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.xml
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF Generator 2.0.pdb
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTF Generator 2.0.exe
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTF Generator 2.0.pdb
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTF_Generator_2._0.xml
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Form1.resources
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Resources.resources
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF Generator 2.0.vbproj.GenerateResource.Cache
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTFGEN.dll
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTFGEN.pdb
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTFGEN.xml
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Form2.resources
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF Generator 2.0.exe
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.xml
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF Generator 2.0.pdb
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTF Generator 2.0.exe
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTF Generator 2.0.pdb
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTF_Generator_2._0.xml
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTFGEN.pdb
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTFGEN.xml
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Form1.resources
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Form2.resources
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Resources.resources
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF Generator 2.0.vbproj.GenerateResource.Cache
+E:\Projects\Visual Studio\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Form3.resources
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF Generator 2.0.exe
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.xml
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF Generator 2.0.pdb
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTF Generator 2.0.exe
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTF Generator 2.0.pdb
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTF_Generator_2._0.xml
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTFGEN.pdb
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\bin\Debug\TTFGEN.xml
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Form1.resources
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Form2.resources
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Form3.resources
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF_Generator_2._0.Resources.resources
+D:\My Projects\Visual Basic\TTF Generator 2.0\TTF Generator 2.0\TTF Generator 2.0\obj\Debug\TTF Generator 2.0.vbproj.GenerateResource.Cache

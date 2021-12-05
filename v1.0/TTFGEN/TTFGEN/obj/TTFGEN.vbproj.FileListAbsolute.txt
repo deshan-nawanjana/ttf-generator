@@ -1,0 +1,9 @@
+C:\Users\Deshan Nawanjana\Desktop\TTFGEN\TTFGEN\bin\Debug\TTFGEN.dll
+C:\Users\Deshan Nawanjana\Desktop\TTFGEN\TTFGEN\bin\Debug\TTFGEN.pdb
+C:\Users\Deshan Nawanjana\Desktop\TTFGEN\TTFGEN\bin\Debug\TTFGEN.xml
+C:\Users\Deshan Nawanjana\Desktop\TTFGEN\TTFGEN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Deshan Nawanjana\Desktop\TTFGEN\TTFGEN\obj\Debug\TTFGEN.Resources.resources
+C:\Users\Deshan Nawanjana\Desktop\TTFGEN\TTFGEN\obj\Debug\TTFGEN.vbproj.GenerateResource.Cache
+C:\Users\Deshan Nawanjana\Desktop\TTFGEN\TTFGEN\obj\Debug\TTFGEN.dll
+C:\Users\Deshan Nawanjana\Desktop\TTFGEN\TTFGEN\obj\Debug\TTFGEN.xml
+C:\Users\Deshan Nawanjana\Desktop\TTFGEN\TTFGEN\obj\Debug\TTFGEN.pdb
